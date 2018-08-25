@@ -8,6 +8,6 @@ read.bat  - read flash
 write.bat - write blink project
 gdb.bat   - run debugger
 
-toolchan used: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+toolchain used: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 
 
