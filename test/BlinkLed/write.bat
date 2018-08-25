@@ -1,0 +1,1 @@
+..\..\bin\st-flash --format binary write blink.bin 0x8000000
